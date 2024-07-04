@@ -16,10 +16,14 @@ This project explores the impact of meditation and Gayatri mantra chanting on th
 
 ## Resources and Data Collection
 
-### Data Sources: Real-time data collected from Ujjain prison with the assistance of the prison team and Shanti Kunj team.
+### Data Sources: 
+Real-time data collected from Ujjain prison with the assistance of the prison team and Shanti Kunj team.
 
-### Data Collection Methods: Surveys and health assessments conducted before and after the meditation and mantra chanting sessions.
+### Data Collection Methods: 
+Surveys and health assessments conducted before and after the meditation and mantra chanting sessions.
 
-### Tools and Libraries: Utilized data analytics libraries such as pandas for data manipulation, matplotlib and seaborn for visualization, and numpy for numerical operations.
+### Tools and Libraries: 
+Utilized data analytics libraries such as pandas for data manipulation, matplotlib and seaborn for visualization, and numpy for numerical operations.
 
-### Participants: Prisoners of various genders, ages, and marital statuses, providing a comprehensive dataset for analysis.
+### Participants: 
+Prisoners of various genders, ages, and marital statuses, providing a comprehensive dataset for analysis.
